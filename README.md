@@ -31,17 +31,6 @@ English | [中文](README_cn.md)
   \- 4, `STRONG EXPANDABILITY`: Easy access to M5Stack's hardware and software ecology system: a wealth of sensors, actuators, functional modules, and accessories to choose from, Extremely fast adaptation.
 
 
-
--  ## 更多信息
-
-   **UIFlow Quick Start**: [点击这里](https://docs.m5stack.com/zh_CN/quick_start/m5stickc/m5stickc_quick_start_with_uiflow)
-
-   **MicroPyhton API**: [点击这里](https://docs.m5stack.com/zh_CN/mpy/display/m5stack_lvgl)
-
-   **Arduino IDE 环境搭建**: [点击这里](https://docs.m5stack.com/zh_CN/arduino/arduino_development)
-
-   **引脚地图**: [点击这里](https://docs.m5stack.com/en/core/stamp_pico)
-
 ## More Information
 
 **UIFlow Quick Start**: Please [Click Here](https://docs.m5stack.com/en/quick_start/stamp_pico/quick_start_uiflow)
