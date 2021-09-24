@@ -1,6 +1,6 @@
 # STAMP-PICO Arduino Library
 
-[English](README.md) | 中文
+中文 | [English](README_cn.md)
 
 <img src="https://static-cdn.m5stack.com/resource/docs/static/assets/img/product_pics/core/stamp_pico/stamp_pico_01.webp" alt="M5StickC_01" width="350">
 
@@ -42,12 +42,12 @@
 
      \- 轻松接入M5Stack的软硬件体系管脚映射
 
--  ## 更多信息
+## 更多信息
 
-    **UIFlow 快速上手**: [点击这里](https://docs.m5stack.com/zh_CN/quick_start/m5stickc/m5stickc_quick_start_with_uiflow)
+**UIFlow 快速上手**: [点击这里](https://docs.m5stack.com/zh_CN/quick_start/stamp_pico/quick_start_uiflow)
 
-    **MicroPyhton API**: [点击这里](https://docs.m5stack.com/zh_CN/mpy/display/m5stack_lvgl)
+**MicroPyhton API**: [点击这里](https://docs.m5stack.com/zh_CN/mpy/display/m5stack_lvgl)
 
-    **Arduino IDE 环境搭建**: [点击这里](https://docs.m5stack.com/zh_CN/arduino/arduino_development)
+**Arduino IDE 环境搭建**: [点击这里](https://docs.m5stack.com/zh_CN/arduino/arduino_development)
 
-    **引脚地图**: [点击这里](https://docs.m5stack.com/zh_CN/core/stamp_pico)
+**引脚地图**: [点击这里](https://docs.m5stack.com/zh_CN/core/stamp_pico)

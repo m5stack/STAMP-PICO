@@ -4,9 +4,9 @@ English | [中文](README_cn.md)
 
 <img src="https://static-cdn.m5stack.com/resource/docs/static/assets/img/product_pics/core/stamp_pico/stamp_pico_01.webp" alt="M5StickC_01" width="350">
 
-* **For the Detailed documentation of M5StickC, please [Click here](https://docs.m5stack.com/#/zh_CN/core/stamp_pico)**
+* **For the Detailed documentation of STAMP-PICO, please [Click here](https://docs.m5stack.com/#/zh_CN/core/stamp_pico)**
 
-* **In order to buy M5StickC, please [Click here](https://www.aliexpress.com/item/1005003136802824.html?spm=a2g0o.store_pc_allProduct.8148356.3.ce824b03n92ku2)**
+* **In order to buy STAMP-PICO, please [Click here](https://www.aliexpress.com/item/1005003136802824.html?spm=a2g0o.store_pc_allProduct.8148356.3.ce824b03n92ku2)**
 
 ## Description
 
@@ -34,10 +34,20 @@ English | [中文](README_cn.md)
 
 -  ## 更多信息
 
-   **UIFlow 快速上手**: [点击这里](https://docs.m5stack.com/zh_CN/quick_start/m5stickc/m5stickc_quick_start_with_uiflow)
+   **UIFlow Quick Start**: [点击这里](https://docs.m5stack.com/zh_CN/quick_start/m5stickc/m5stickc_quick_start_with_uiflow)
 
    **MicroPyhton API**: [点击这里](https://docs.m5stack.com/zh_CN/mpy/display/m5stack_lvgl)
 
    **Arduino IDE 环境搭建**: [点击这里](https://docs.m5stack.com/zh_CN/arduino/arduino_development)
 
    **引脚地图**: [点击这里](https://docs.m5stack.com/en/core/stamp_pico)
+
+## More Information
+
+**UIFlow Quick Start**: Please [Click Here](https://docs.m5stack.com/en/quick_start/stamp_pico/quick_start_uiflow)
+
+**MicroPyhton API**: Please [Click Here](https://docs.m5stack.com/en/mpy/display/m5stack_lvgl)
+
+**Arduino IDE Development**: Please [Click Here](https://docs.m5stack.com/en/arduino/arduino_development)
+
+**PinMap**: Please [Click Here](https://docs.m5stack.com/en/core/stamp_pico)
