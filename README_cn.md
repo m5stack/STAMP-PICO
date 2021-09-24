@@ -1,6 +1,6 @@
 # STAMP-PICO Arduino Library
 
-English | [中文](README_cn.md)
+[English](README.md) | 中文
 
 <img src="https://static-cdn.m5stack.com/resource/docs/static/assets/img/product_pics/core/stamp_pico/stamp_pico_01.webp" alt="M5StickC_01" width="350">
 
