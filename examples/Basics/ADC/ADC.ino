@@ -7,11 +7,10 @@
 * 获取更多资料请访问：https://docs.m5stack.com/zh_CN/core/stamp_pico
 *
 * describe: Analog Read & Write.  模拟信号读取、写入
-* date：2021/9/24
+* date：2021/10/23
 *******************************************************************************
 */
 #include <Arduino.h>
-#include <analogWrite.h>
 
 /* After STAMP-PICO is started or reset
   the program in the setUp () function will be run, and this part will only be run once.
@@ -20,7 +19,8 @@ void setup() {
   Serial.begin(115200);
   pinMode(32,INPUT);
   pinMode(33,OUTPUT);
-  analogWriteResolution(33); // set resolution to 10 bits for the pins.  将引脚的分辨率设置为 10 位
+  ledcSetup(33, 5000, 8);
+  ledcAttachPin(33,0);
 }
 
 /* After the program in setup() runs, it runs the program in loop()
@@ -33,5 +33,5 @@ void loop() {
   Serial.printf("analogRead:%d\n",valueBefore);
   valueAfter = map(valueBefore,0,1023,0,255);
   Serial.printf("analogWrite:%d\n\n",valueAfter);
-  analogWrite(33,valueAfter);
+  ledcWrite(33, valueAfter);
 }
