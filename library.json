@@ -3,7 +3,7 @@
   "description": "An ESP32 Arduino board",
   "keywords": "STAMP-PICO",
   "authors": {
-    "name": "Hades2001, STAMP-PICO",
+    "name": "M5Stack",
     "url": "http://www.m5stack.com"
   },
   "repository": {

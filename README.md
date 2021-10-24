@@ -30,6 +30,9 @@ English | [中文](README_cn.md)
 
   \- 4, `STRONG EXPANDABILITY`: Easy access to M5Stack's hardware and software ecology system: a wealth of sensors, actuators, functional modules, and accessories to choose from, Extremely fast adaptation.
 
+### Dependent installation
+
+Please put [FastLED](https://github.com/m5stack/STAMP-PICO/tree/master/src) in src into your Arduino libraries folder
 
 ## More Information
 

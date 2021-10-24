@@ -42,6 +42,10 @@
 
      \- 轻松接入M5Stack的软硬件体系管脚映射
 
+### 依赖安装
+
+请将 src 中的 [FastLED](https://github.com/m5stack/STAMP-PICO/tree/master/src) 放入您的 Arduino libraries 文件夹中
+
 ## 更多信息
 
 **UIFlow 快速上手**: [点击这里](https://docs.m5stack.com/zh_CN/quick_start/stamp_pico/quick_start_uiflow)
