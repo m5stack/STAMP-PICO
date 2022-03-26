@@ -38,7 +38,7 @@ Please put [FastLED](https://github.com/m5stack/STAMP-PICO/tree/master/src) in s
 
 **UIFlow Quick Start**: Please [Click Here](https://docs.m5stack.com/en/quick_start/stamp_pico/quick_start_uiflow)
 
-**MicroPyhton API**: Please [Click Here](https://docs.m5stack.com/en/mpy/display/m5stack_lvgl)
+**MicroPython API**: Please [Click Here](https://docs.m5stack.com/en/mpy/display/m5stack_lvgl)
 
 **Arduino IDE Development**: Please [Click Here](https://docs.m5stack.com/en/arduino/arduino_development)
 
